@@ -1,7 +1,6 @@
 # Data Professional Survey Breakdown
 
-Power BI dashboard analyzing survey data from 630 data professionals — 
-covering job roles, salaries, satisfaction, career paths, and demographics.
+Power BI dashboard analyzing survey data from 630 data professionals covering job roles, salaries, satisfaction, career paths, and demographics.
 
 ## Dataset
 - 630 responses, 28 columns
